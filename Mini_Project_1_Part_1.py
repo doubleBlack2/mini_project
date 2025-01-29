@@ -17,7 +17,7 @@
 
 # Group 7
 # Group number:
-# Muyuan yan : Basic Function Compilation
+# Muyuan yan : Basic Function Compilation and publish code to github
 # David Chen (Wen-Kuang, Chen): Post code maintenance, bug fixing and publish code to hugging space
 
 import streamlit as st
@@ -459,5 +459,5 @@ if __name__ == "__main__":
 
         st.write("")
         st.write(
-            "Demo developed by [Your Name](https://www.linkedin.com/in/your_id/ - Optional)"
+            "Demo developed by [Muyuan Yan, David Chen (Wen-Kuang, Chen)](https://github.com/doubleBlack2/mini_project.git, https://huggingface.co/spaces/ykdavid/llm_mini_project)"
         )

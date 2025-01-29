@@ -14,6 +14,12 @@
 # Jeffrey Pennington, Richard Socher, and Christopher D. Manning. 2014. *GloVe: Global Vectors for Word Representation*.
 
 ### Import necessary libraries: here you will use streamlit library to run a text search demo, please make sure to install it.
+
+# Group 7
+# Group number:
+# Muyuan yan : Basic Function Compilation
+# David Chen (Wen-Kuang, Chen): Post code maintenance, bug fixing and publish code to hugging space
+
 import streamlit as st
 import numpy as np
 import numpy.linalg as la
